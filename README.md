@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+I am a self taught Backend C# developer
+
+-------------------------
 ## Tools
 ### Programming Languages
-<a href="https://github.com/search?q=user%3Arnds-dev+language%3Acsharp&type=repositories">         <img alt="C#"           src="https://img.shields.io/badge/C%23%20-%23512BD4.svg?logo=dotnet&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Arnds-dev+language%3Acsharp&type=repositories">      <img alt="C#"           src="https://img.shields.io/badge/C%23%20-%23512BD4.svg?logo=dotnet&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Arnds-dev+language%3Asql&type=repositories">         <img alt="C++"          src="https://img.shields.io/badge/C++%20-%23025E8C.svg?logo=cplusplus&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Arnds-dev+language%3Apython&type=repositories">      <img alt="Python"       src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Arnds-dev+language%3Aphp&type=repositories">         <img alt="PHP"          src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
